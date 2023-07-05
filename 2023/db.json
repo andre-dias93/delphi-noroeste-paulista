@@ -1,0 +1,17 @@
+{
+  "cidades": [
+    {
+      "id": 810,
+      "descricao": "Fernandópolis",
+      "estado": "SP"
+    }
+  ],
+  "pessoas": [
+    {
+      "id": 1,
+      "nome": "Andre Dias",
+      "email": "adasdasd",
+      "idCidade": 810
+    }
+  ]
+}
