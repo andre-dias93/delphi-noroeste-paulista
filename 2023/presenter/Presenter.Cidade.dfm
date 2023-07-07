@@ -1,9 +1,7 @@
 inherited frmPresenterCidade: TfrmPresenterCidade
   Caption = 'Cadastro de Cidades'
-  PixelsPerInch = 96
   TextHeight = 13
   inherited pgControl: TPageControl
-    ExplicitTop = 30
     inherited tabCadastro: TTabSheet
       object Label1: TLabel [0]
         Left = 8
@@ -41,10 +39,6 @@ inherited frmPresenterCidade: TfrmPresenterCidade
       end
     end
     inherited tabPesquisa: TTabSheet
-      ExplicitLeft = 4
-      ExplicitTop = 4
-      ExplicitWidth = 650
-      ExplicitHeight = 350
       inherited dbGridPesquisa: TDBGrid
         Columns = <
           item

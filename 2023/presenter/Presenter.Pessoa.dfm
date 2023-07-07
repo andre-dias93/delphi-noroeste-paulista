@@ -2,8 +2,6 @@ inherited frmPresenterPessoa: TfrmPresenterPessoa
   Caption = 'Cadastro de Pessoas'
   TextHeight = 13
   inherited pgControl: TPageControl
-    ActivePage = tabPesquisa
-    ExplicitLeft = 8
     inherited tabCadastro: TTabSheet
       object Label1: TLabel [0]
         Left = 8
